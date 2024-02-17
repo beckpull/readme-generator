@@ -24,3 +24,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# From starter code:
+node_modules
+package-lock.json
+.vscode
