@@ -16,7 +16,7 @@
   <!-- DESCRIPTION -->
   ## Description
 
-  This is a simple and easy to use README generator that will take user input and create a professional README with a working Table of Contents
+  THis is an easy to use README.md generator that will create a professional README file for your pojects and save you time!
 
   <!-- INSTALLATION -->
   ## Installation
@@ -30,13 +30,13 @@
   ## Usage
   *This section outlines each step in the usage of application.*
   
-  Clone, run node index.js, go through prompts
+  Open the file in your local enviornment and run node index.js - answer each prompt and a beautiful README will generate!
   
   <!-- CONTRIBUTING -->
   ## Contributing
   *Here are the guidelines/recommendations when it comes to contributing to this project:*
 
-  fork the project and create a pull request (or an issue)
+  Fork the project and create a pull request! **Contributions are always welcome!**
   
   <!-- LICENSE -->
   ## License
@@ -48,7 +48,7 @@
   ## Testing
   *See contribution guidelines if you have more test ideas!*
 
-  Here are the tests I did not write:
+  These are the tests to run on this application (and how to run them)
   
 
 

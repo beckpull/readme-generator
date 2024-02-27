@@ -21,7 +21,7 @@ A simple and easy-to-use professional README generator so you can focus on what'
     <a href="https://github.com/beckpull/readme-generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1mre1OwRyV_mRTCyXUPhy4u_9t4dBwN9y/view">View Demo</a>
+    <a href="https://drive.google.com/file/d/1gzlyNawyHbkK8rHOCyaoTeBcPb_xpLLj/view">View Demo</a>
     ·
     <a href="https://github.com/beckpull/readme-generator/issues">Report Bug</a>
     ·
@@ -74,7 +74,7 @@ A simple and easy-to-use professional README generator so you can focus on what'
 <!-- Link to video demo -->
 
  * Click [here](./YourREADME.md) to view an attached a sample README created using this generator. 
- * Click [here](https://drive.google.com/file/d/1mre1OwRyV_mRTCyXUPhy4u_9t4dBwN9y/view) to watch a demo video on how to use this application.
+ * Click [here](https://drive.google.com/file/d/1gzlyNawyHbkK8rHOCyaoTeBcPb_xpLLj/view) to watch a demo video on how to use this application.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
