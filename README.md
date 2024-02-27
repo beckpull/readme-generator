@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * This README file was created using the template found at: https://github.com/othneildrew/Best-README-Template
 
 #### Disclaimer: 
-> I utilized several articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs **as references** for the javascript code attached (credit for my table of contents drafting style seen in lines 75 - 103 of generateMarkdown.js goes to [@connietran-dev](https://github.com/connietran-dev)). 
+> I utilized several articles from sources such as (but not limited to) Stack Overflow, W3Schools, and MDN Web Docs **as references** for the javascript code attached (credit for my table of contents drafting style seen in lines 75 - 103 of generateMarkdown.js goes to [@connietran-dev](https://github.com/connietran-dev) - click [here](https://github.com/connietran-dev/readme-generator/blob/master/utils/generateMarkdown.js) to see what I mean 😎). 
 >
 >**All of the utilized information has been altered in order to fit this project.** 
 
