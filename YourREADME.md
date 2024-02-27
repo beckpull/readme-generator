@@ -16,7 +16,7 @@
   <!-- DESCRIPTION -->
   ## Description
 
-  THis is a simple and easy-to-use command-line README.md generator that will save time when woorking on projects.
+  This is a simple and easy to use README generator that will take user input and create a professional README with a working Table of Contents
 
   <!-- INSTALLATION -->
   ## Installation
@@ -30,17 +30,17 @@
   ## Usage
   *This section outlines each step in the usage of application.*
   
-  Clone the code into your local enviornemnt, run node index.js on the local folder and follow the prompts to create a beautiful, professional, and legible README file for your project.
+  Clone, run node index.js, go through prompts
   
   <!-- CONTRIBUTING -->
   ## Contributing
   *Here are the guidelines/recommendations when it comes to contributing to this project:*
 
-  Please - if any ideas fork this repo and create a pull request or open an issue!
+  fork the project and create a pull request (or an issue)
   
   <!-- LICENSE -->
   ## License
-  
+
   **This project is protected under the MIT license. See LICENSE.txt for more information.**
   
 
@@ -48,7 +48,7 @@
   ## Testing
   *See contribution guidelines if you have more test ideas!*
 
-  These are my tets if I had any
+  Here are the tests I did not write:
   
 
 
