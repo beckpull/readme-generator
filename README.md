@@ -72,7 +72,7 @@ A simple and easy-to-use professional README generator so you can focus on what'
 
 <!-- Link to video demo -->
 
-I have attached a sample README created using this generator: Click [here](./assets/README.md) to view!
+I have attached a sample README created using this generator: Click [here](./YourREADME.md) to view!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
