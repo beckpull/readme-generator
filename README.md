@@ -13,7 +13,7 @@
 
 
 
-<h1 align="center">README Generator</h1>
+<h1 align="center">README File Generator</h1>
 
   <p align="center">
 A simple and easy-to-use professional README generator so you can focus on what's important
