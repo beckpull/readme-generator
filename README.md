@@ -54,7 +54,7 @@ A simple and easy-to-use professional README generator so you can focus on what'
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-- This application is geared towards bootcamp students (or anybody who is creating projects from the ground up.
+- This application is geared towards bootcamp students (or anybody who is creating projects from the ground up).
 
 - The goal of this application is for users to save precious time by not having to draft a README file from scratch without compromising the quality of the produced document. 
 
